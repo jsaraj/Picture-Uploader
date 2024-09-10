@@ -1,3 +1,4 @@
+import FileUploader from "./components/FileUploader"
 
 
 function App() {
@@ -5,7 +6,7 @@ function App() {
 
   return (
     <>
-      
+        <FileUploader/>
     </>
   )
 }
